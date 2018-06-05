@@ -6,6 +6,7 @@ gem "jekyll", "~> 3.8.2"
 # themes
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
+gem 'jemoji'
 
 # plugins
 
