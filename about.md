@@ -12,10 +12,10 @@ Hopefully I could write a lot of content that could help both Software Engineers
 
 If you want to request any tutorial or if you have questions, you can contact me here :
 
-[Facebook](https://www.facebook.com/jsjtalusan)
+* [Facebook](https://www.facebook.com/jsjtalusan)
 
-[GitHub](https://github.com/jltalusan)
+* [GitHub](https://github.com/jltalusan)
 
-Gmail : johnlimueltalusan@gmail.com
+* Gmail : johnlimueltalusan@gmail.com
 
 Thanks for reading!
