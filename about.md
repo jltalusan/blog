@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro"
+title: "About"
 author: "Limuel"
 date:   2018-06-05 16:44:10 +0800
 categories: "QAEngineers"
