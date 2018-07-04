@@ -35,16 +35,13 @@ Many source code management tools such as Bitbucket enhance core Git functionali
 ## Git is Good, but how can I install it?
 
 Download here : [Sourcetree](https://www.sourcetreeapp.com/) <br>
-Create a BitBucket account : [GitHub](https://github.com/)
-
-### Why these?
-Sourcetree is made by Atlassian, the same company that made JIRA and owns Bitbucket
+Create a GitHub account : [GitHub](https://github.com/)
 
 ### Why do you need Sourcetree? 
 Actually you don't need it since you can use git with your cmd, but it's better to use Git GUI apps like these for beginners to understand the flow better.
 
-### Why do you need BitBucket? What does it do?
-Well, BitBucket is a Git Repository. there's a lot of Git Repositories out there like GitHub and GitLab, but we're going to use BitBucket because that's what our company is using
+### Why do you need a Git Repository? What does it do?
+Well, there's a lot of Git Repositories out there like BitBucket, GitHub and GitLab, but we're going to use GitHub because it's easier to understand, but soon we're going to use [BitBucket](http://bitbucket.org/) because that's what our company is using
 
 ### What is a Git Repository?
 A Git repository is a virtual storage of your project. It allows you to save versions of your code, which you can access when needed. 
