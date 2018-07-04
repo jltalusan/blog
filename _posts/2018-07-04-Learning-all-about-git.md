@@ -63,7 +63,7 @@ or
 ### Cloning an existing repository: git clone
 If a project has already been set up in a central repository, the clone command is the most common way for users to obtain a local development clone. Like git init, cloning is generally a one-time operation. Once a developer has obtained a working copy, all version control operations are managed through their local repository.
 
-> git clone https://github.com/jltalusan/codeceptiondemo.git
+> git clone https://github.com/jltalusan/gitdemo.git
 
 
 ### Saving changes to the repository: git add and git commit
