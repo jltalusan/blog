@@ -35,7 +35,7 @@ Many source code management tools such as Bitbucket enhance core Git functionali
 ## Git is Good, but how can I install it?
 
 Download here : [Sourcetree](https://www.sourcetreeapp.com/) <br>
-Create a BitBucket account : [BitBucket](https://bitbucket.org/product)
+Create a BitBucket account : [GitHub](https://github.com/)
 
 ### Why these?
 Sourcetree is made by Atlassian, the same company that made JIRA and owns Bitbucket
