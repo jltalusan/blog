@@ -1,5 +1,5 @@
 ---
-title: "Learning all about Git"
+title: "Learning Git"
 date:   2018-07-04 11:39:10 +0800
 categories: "QAEngineers"
 ---
