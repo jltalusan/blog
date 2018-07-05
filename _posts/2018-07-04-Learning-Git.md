@@ -12,7 +12,7 @@ Version control systems are a category of software tools that help a software te
 
 ## What is Git?
 
-Git is the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
+The most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel.
 
 ## Why Git?
 It's free, widely used, secured and can be accessed wherever you are. 
