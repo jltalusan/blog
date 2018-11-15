@@ -14,6 +14,7 @@ Software quality assurance engineers are sometimes confused with software tester
 
 ## But you've also heard about Quality Analyst, Quality Engineers, Quality Assurance and SDET right?
 <br>
+
 ### :bulb: Software testers 
 -- Normally involves executing tests but not creating them
 
