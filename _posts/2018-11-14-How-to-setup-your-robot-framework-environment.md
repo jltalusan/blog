@@ -83,5 +83,5 @@ Now open the ami-ph-qa folder in your IntelliJ IDEA Community Edition
 _Image 2_
 
 # Yay we're done!
-![Image with caption](https://i.imgur.com/Ly4fhh5.jpg "Image with caption")
+![Image with caption](https://i.imgur.com/Ly4fhh5.jpg/200x300 "Image with caption")
 _Good Job :trollface:_
